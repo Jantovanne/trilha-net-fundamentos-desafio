@@ -52,7 +52,7 @@ while (exibirMenu)
             break;
     }
 
-    Console.WriteLine("Pressione uma Enter para continuar\n"+"----------------------------------");
+    Console.WriteLine("Pressione Enter para continuar\n"+"----------------------------------");
     Console.ReadLine();
 }
                    
